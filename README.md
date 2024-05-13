@@ -7,7 +7,7 @@ It holds the client part
 # server Branch
 It holds the server part
 
-# Bacend .env
+# Backend .env
 REDIS_URL=redis://localhost:6379
 
 # Frontend .env
